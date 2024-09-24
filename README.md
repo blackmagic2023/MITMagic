@@ -99,6 +99,17 @@ Feel free to contribute by submitting issues, suggesting features, or making pul
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+# Disclaimer
+
+MITMagic is intended for educational and research purposes only.
+
+The use of this tool is governed by the following terms:
+- Legal Use Only: This software is provided with the understanding that it will be used only on networks and devices for which you have explicit permission to perform security testing and monitoring. Unauthorized access, ARP spoofing, and packet capturing on networks or devices without permission is illegal and can lead to severe penalties under applicable laws.
+- No Warranty: This software is provided "as is", without any warranties or guarantees of any kind. The authors are not responsible for any damage or legal consequences resulting from the use or misuse of this tool.
+- Responsibility: You are solely responsible for your actions when using MITMagic. Ensure that you comply with all local, state, and federal laws, as well as any applicable organizational policies when using this tool.
+
+By using this software, you acknowledge that you understand these terms and agree to use MITMagic responsibly and ethically.
+
 # License
 
 MITMagic is licensed under the MIT License.
